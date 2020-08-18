@@ -1,4 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+I created this app using a node-package-manager named as create-react-app
+Commands:
+```
+npm install create-react-app
+
+create-react-app project-name
+```
+Read more about it here: [Create React App](https://github.com/facebook/create-react-app).
+
+
+how to run:
+```
+npm start```
 
 ## Available Scripts
 
